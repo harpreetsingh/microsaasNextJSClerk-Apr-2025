@@ -8,7 +8,7 @@ export default function PricingSection() {
           <div className="space-y-2">
             <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl">Simple, Transparent Pricing</h2>
             <p className="max-w-[700px] text-gray-500 md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed dark:text-gray-400">
-              Choose the plan that's right for you and get started with your project today.
+              Choose the plan that&apos;s right for you and get started with your project today.
             </p>
           </div>
         </div>
